@@ -21,3 +21,4 @@ Manual stock taking and financial records is very slow and prone to human error.
 ![Use case diagram](./images/BusiMan.svg)
 
 ## Feasibility and Risk Study
+The system is similar to existing projects that already exist today, however, due to the customizable nature of this project our sponsor will have a tailor made solution that will fit their business needs specifically. Our solution is technically simple, meaning that our users will be able to run our system on a basic computer running windows. Due to this there is no extra costs included with setup and running of our system, pair this with our custom pricing for our sponsor and our system is an extremely affordable and attractive choice. We will provide operational training to our sponsor as well as provide documentation and instrunctions on how to use it. We will also design our program in a very user friendly manner meaning operation should not be an issue.
